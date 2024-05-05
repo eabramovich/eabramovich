@@ -21,7 +21,7 @@
 
 
 ### 🏆 Моя статистика:
-[![Codewarrior Profile Badges](https://www.codewars.com/users/eugenia.abramovich/badges/small)](https://www.codewars.com/users/eugenia.abramovich/badges/small)
+[![Codewarrior Profile Badges](https://www.codewars.com/users/eugenia.abramovich/badges/large)](https://www.codewars.com/users/eugenia.abramovich/badges/large)
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=eabramovich&hide=contribs&show_icons=true">

@@ -22,6 +22,15 @@
 ### 🏆 My Stats:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/eugenia.abramovich/badges/large)](https://www.codewars.com/users/eugenia.abramovich/badges/large)
 
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=eabramovich&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=eabramovich&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=eabramovich&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eabramovich&layout=compact" />
+</a>
+</div>
+
 <!--
 **eabramovich/eabramovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

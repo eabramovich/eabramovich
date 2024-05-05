@@ -9,17 +9,18 @@
 
 📱 Telegram: [@eabramovich](https://t.me/eabramovich)
 
-### 🛠 &nbsp;Languages and Tools:
+<h3><samp>⚡️ Мой стек:</samp></h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-3b3b3b?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-3b3b3b?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-3b3b3b?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-3b3b3b?style=flat&logo=figma)
+![Express](https://img.shields.io/badge/-Express-3b3b3b?style=flat&logo=express)
 
-### 🏆 My Stats:
+
+<h3><samp>🏆 Моя статистика:</samp></h3>
 [![Codewarrior Profile Badges](https://www.codewars.com/users/eugenia.abramovich/badges/small)](https://www.codewars.com/users/eugenia.abramovich/badges/small)
 
 <div>

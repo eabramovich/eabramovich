@@ -20,7 +20,7 @@
 ![Express](https://img.shields.io/badge/-Express-3b3b3b?style=flat&logo=express)
 
 
-<h3><samp>🏆 Моя статистика:</samp></h3>
+### 🏆 Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/eugenia.abramovich/badges/small)](https://www.codewars.com/users/eugenia.abramovich/badges/small)
 
 <div>

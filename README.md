@@ -1,4 +1,8 @@
-### Hi there 👋
+<h2 align="center">
+    <samp>
+        Привет 👋<br>Меня зовут Женя, я фронтенд-разработчик 💻
+    </samp>
+</h2>
 
 <!--
 **eabramovich/eabramovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

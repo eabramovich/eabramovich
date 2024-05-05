@@ -4,11 +4,6 @@
     </samp>
 </h2>
 
-### Connect with me:
-✉️ Email: ewg.abramovich2014@yandex.ru
-
-📱 Telegram: [@eabramovich](https://t.me/eabramovich)
-
 <h3><samp>⚡️ Мой стек:</samp></h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

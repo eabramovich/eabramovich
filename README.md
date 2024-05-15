@@ -18,14 +18,20 @@
 </h2>
 
 <h3><samp>⚡️ Мой стек:</samp></h3>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=ShieldStyle" />
-![JavaScript](https://img.shields.io/badge/-JavaScript-3b3b3b?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-3b3b3b?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-3b3b3b?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-3b3b3b?style=flat&logo=figma)
-![Express](https://img.shields.io/badge/-Express-3b3b3b?style=flat&logo=express)
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?logo=SASS&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?logo=React&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=Express&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248logo=MongoDB&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=ShieldStyle" />
+</div>
 
 
 ### 🏆 Моя статистика:

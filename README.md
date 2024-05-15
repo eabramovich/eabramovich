@@ -1,3 +1,16 @@
+<div id="header" align="center" width="700">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300"/>
+</div>
+
+<div align="center" id="badges">
+   <a href="https://t.me/eabramovich" rel="nofollow">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:ewg.abramovich2014@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
 <h2 align="center">
     <samp>
         Привет 👋<br>Меня зовут Женя, я фронтенд-разработчик 💻

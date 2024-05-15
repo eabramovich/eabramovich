@@ -19,8 +19,8 @@
 
 <h3><samp>⚡️ Мой стек:</samp></h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=ShieldStyle" />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3b3b3b?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-3b3b3b?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-3b3b3b?style=flat&logo=git)
